@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cIa5K7HnEBHhZ0tXt0bEqaakdh7trB2TAG+CcNsAsC0=",
+  "Source": "PrivateChatApi",
+  "BasePath": "_content/PrivateChatApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
